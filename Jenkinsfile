@@ -4,7 +4,7 @@ pipeline {
         PRJ="jenkins-demo"
         APP="jenkinsapp"
         GIT_URL="https://github.com/sclorg/nodejs-ex.git"
-        BRANCH_NAME="main"
+        BRANCH_NAME="master"
     }
     agent {
         node {
